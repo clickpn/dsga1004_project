@@ -1,0 +1,971 @@
+Astoria-Long Island City,Astoria-Long Island City	13
+Astoria-Long Island City,Carnegie Hill	1
+Astoria-Long Island City,East Village	2
+Astoria-Long Island City,Financial District	2
+Astoria-Long Island City,Harlem	1
+Astoria-Long Island City,Midtown	2
+Astoria-Long Island City,Morningside Heights	1
+Astoria-Long Island City,Murray Hill	1
+Astoria-Long Island City,North Sutton Area	1
+Astoria-Long Island City,Sunny Side	2
+Astoria-Long Island City,UNKNOWN	11
+Astoria-Long Island City,Upper East Side	3
+Astoria-Long Island City,Utopia	1
+Astoria-Long Island City,Williamsburg	1
+Astoria-Long Island City,Woodside	2
+Astoria-Long Island City,Yorkville	1
+Battery Park,Bushwick	1
+Battery Park,Central Park	1
+Battery Park,Chelsea	5
+Battery Park,Chinatown	1
+Battery Park,Financial District	4
+Battery Park,Garment District	2
+Battery Park,Gramercy	2
+Battery Park,Greenwich Village	3
+Battery Park,Little Italy	1
+Battery Park,Lower East Side	4
+Battery Park,Midtown	9
+Battery Park,Morningside Heights	1
+Battery Park,Murray Hill	4
+Battery Park,Park Slope	1
+Battery Park,Soho	7
+Battery Park,Tribeca	7
+Battery Park,UNKNOWN	4
+Battery Park,Union Port	1
+Battery Park,Upper East Side	1
+Battery Park,Washington Heights	1
+Battery Park,West Village	5
+Battery Park,Williamsburg	1
+Battery Park,Woodside	1
+Battery Park,Yorkville	1
+Bedford-Stuyvesant,Bedford-Stuyvesant	1
+Bedford-Stuyvesant,Boerum Hill	1
+Bedford-Stuyvesant,Sunny Side	1
+Bedford-Stuyvesant,UNKNOWN	4
+Bedford-Stuyvesant,Williamsburg	1
+Bensonhurst,UNKNOWN	1
+Boerum Hill,Battery Park	1
+Boerum Hill,Carroll Gardens	1
+Boerum Hill,Chelsea	1
+Boerum Hill,Cobble Hill	1
+Boerum Hill,Downtown	2
+Boerum Hill,Fort Green	3
+Boerum Hill,Lower East Side	1
+Boerum Hill,Park Slope	1
+Boerum Hill,UNKNOWN	2
+Boerum Hill,Williamsburg	1
+Boerum Hill,Yorkville	1
+Bushwick,Bushwick	3
+Bushwick,East Village	1
+Bushwick,Fort Green	1
+Bushwick,Gramercy	1
+Bushwick,Morningside Heights	1
+Bushwick,UNKNOWN	1
+Bushwick,Williamsburg	2
+Carnegie Hill,Astoria-Long Island City	1
+Carnegie Hill,Carnegie Hill	2
+Carnegie Hill,Central Park	2
+Carnegie Hill,Chelsea	1
+Carnegie Hill,East Harlem	2
+Carnegie Hill,Financial District	1
+Carnegie Hill,Garment District	3
+Carnegie Hill,Greenwich Village	1
+Carnegie Hill,Hamilton Heights	1
+Carnegie Hill,Lower East Side	1
+Carnegie Hill,Midtown	17
+Carnegie Hill,Morningside Heights	1
+Carnegie Hill,Murray Hill	2
+Carnegie Hill,Tribeca	1
+Carnegie Hill,UNKNOWN	2
+Carnegie Hill,Upper East Side	34
+Carnegie Hill,Upper West Side	22
+Carnegie Hill,West Village	2
+Carnegie Hill,Yorkville	2
+Carroll Gardens,Battery Park	1
+Carroll Gardens,Bedford-Stuyvesant	1
+Carroll Gardens,Cobble Hill	1
+Carroll Gardens,Financial District	1
+Carroll Gardens,Fort Green	1
+Carroll Gardens,Gravesend-Sheepshead Bay	1
+Carroll Gardens,Murray Hill	1
+Carroll Gardens,Tribeca	1
+Carroll Gardens,Williamsburg	1
+Central Park,Battery Park	1
+Central Park,Central Park	7
+Central Park,Chelsea	3
+Central Park,Clinton	3
+Central Park,Financial District	1
+Central Park,Fordham	1
+Central Park,Garment District	7
+Central Park,Gramercy	4
+Central Park,Greenwich Village	2
+Central Park,Hamilton Heights	1
+Central Park,Harlem	4
+Central Park,Midtown	25
+Central Park,Morningside Heights	2
+Central Park,Murray Hill	1
+Central Park,North Sutton Area	1
+Central Park,UNKNOWN	3
+Central Park,Upper East Side	26
+Central Park,Upper West Side	36
+Central Park,Washington Heights	1
+Central Park,Yorkville	2
+Chelsea,Astoria-Long Island City	3
+Chelsea,Battery Park	3
+Chelsea,Bedford-Stuyvesant	4
+Chelsea,Bushwick	2
+Chelsea,Carnegie Hill	4
+Chelsea,Central Park	6
+Chelsea,Chelsea	78
+Chelsea,Chinatown	1
+Chelsea,Clinton	29
+Chelsea,Downtown	1
+Chelsea,East Village	22
+Chelsea,Financial District	15
+Chelsea,Flushing	1
+Chelsea,Fort Green	4
+Chelsea,Garment District	42
+Chelsea,Gramercy	61
+Chelsea,Greenwich Village	31
+Chelsea,Hamilton Heights	2
+Chelsea,Harlem	7
+Chelsea,Inwood	1
+Chelsea,Jackson Heights	1
+Chelsea,Jamaica	1
+Chelsea,Little Italy	9
+Chelsea,Lower East Side	12
+Chelsea,Midtown	83
+Chelsea,Morris Park	1
+Chelsea,Murray Hill	27
+Chelsea,North Sutton Area	2
+Chelsea,Park Slope	3
+Chelsea,Ridgewood	1
+Chelsea,Soho	11
+Chelsea,Sunny Side	1
+Chelsea,Tribeca	20
+Chelsea,UNKNOWN	19
+Chelsea,Upper East Side	29
+Chelsea,Upper West Side	17
+Chelsea,Washington Heights	5
+Chelsea,West Village	21
+Chelsea,Williamsburg	3
+Chelsea,Yorkville	2
+Chinatown,Battery Park	1
+Chinatown,Clinton	1
+Chinatown,Downtown	1
+Chinatown,East Village	3
+Chinatown,Financial District	1
+Chinatown,Fort Green	1
+Chinatown,Garment District	5
+Chinatown,Gramercy	4
+Chinatown,Greenwich Village	2
+Chinatown,Little Italy	1
+Chinatown,Lower East Side	2
+Chinatown,Midtown	5
+Chinatown,Morningside Heights	1
+Chinatown,Murray Hill	2
+Chinatown,Park Slope	1
+Chinatown,Soho	1
+Chinatown,Tribeca	1
+Chinatown,UNKNOWN	2
+Chinatown,Upper West Side	1
+Clinton,Astoria-Long Island City	3
+Clinton,Battery Park	5
+Clinton,Bedford Park	1
+Clinton,Bushwick	1
+Clinton,Carnegie Hill	1
+Clinton,Central Park	5
+Clinton,Chelsea	36
+Clinton,Chinatown	2
+Clinton,Clinton	15
+Clinton,Dyker Heights	1
+Clinton,East Village	9
+Clinton,Financial District	3
+Clinton,Fort Green	4
+Clinton,Garment District	18
+Clinton,Gramercy	18
+Clinton,Greenwich Village	8
+Clinton,Greenwood	1
+Clinton,Harlem	5
+Clinton,Little Italy	4
+Clinton,Lower East Side	3
+Clinton,Midtown	49
+Clinton,Morningside Heights	1
+Clinton,Mott Haven	1
+Clinton,Murray Hill	12
+Clinton,Park Slope	1
+Clinton,Soho	7
+Clinton,South Bronx	1
+Clinton,Throggs Neck	1
+Clinton,Tribeca	4
+Clinton,UNKNOWN	11
+Clinton,Upper East Side	18
+Clinton,Upper West Side	23
+Clinton,Washington Heights	1
+Clinton,West Village	12
+Clinton,Williamsburg	1
+Clinton,Woodhaven-Richmond Hill	1
+Clinton,Yorkville	2
+Cobble Hill,Carroll Gardens	1
+Cobble Hill,East Village	1
+Cobble Hill,Financial District	2
+Cobble Hill,Soho	1
+Cobble Hill,Tribeca	1
+Cobble Hill,UNKNOWN	1
+Cobble Hill,Upper East Side	1
+Cobble Hill,West Village	1
+Downtown,Battery Park	1
+Downtown,Bushwick	1
+Downtown,Carroll Gardens	3
+Downtown,Chelsea	1
+Downtown,Downtown	1
+Downtown,East Village	2
+Downtown,Fort Green	1
+Downtown,Garment District	2
+Downtown,Gramercy	1
+Downtown,Greenwich Village	1
+Downtown,Harlem	1
+Downtown,Jackson Heights	1
+Downtown,Midtown	1
+Downtown,Park Slope	3
+Downtown,UNKNOWN	1
+Downtown,West Village	1
+Downtown,Williamsburg	2
+East Harlem,Astoria-Long Island City	1
+East Harlem,Carnegie Hill	1
+East Harlem,Central Park	1
+East Harlem,Clinton	2
+East Harlem,East Harlem	3
+East Harlem,Gramercy	1
+East Harlem,Harlem	8
+East Harlem,Midtown	3
+East Harlem,Morningside Heights	1
+East Harlem,Mott Haven	2
+East Harlem,Sunny Side	1
+East Harlem,Tremont	1
+East Harlem,UNKNOWN	1
+East Harlem,Upper East Side	6
+East Harlem,Upper West Side	7
+East Harlem,West Village	1
+East Harlem,Yorkville	2
+East Village,Astoria-Long Island City	3
+East Village,Battery Park	3
+East Village,Bedford-Stuyvesant	4
+East Village,Boerum Hill	1
+East Village,Bushwick	1
+East Village,Carnegie Hill	2
+East Village,Chelsea	29
+East Village,Chinatown	1
+East Village,Clinton	11
+East Village,Cobble Hill	1
+East Village,Downtown	2
+East Village,East Harlem	2
+East Village,East Village	29
+East Village,Financial District	9
+East Village,Fordham	1
+East Village,Fort Green	7
+East Village,Garment District	26
+East Village,Gramercy	44
+East Village,Greenwich Village	32
+East Village,Greenwood	1
+East Village,Hamilton Heights	2
+East Village,Harlem	1
+East Village,Jackson Heights	1
+East Village,Little Italy	3
+East Village,Lower East Side	26
+East Village,Midtown	35
+East Village,Morningside Heights	2
+East Village,Murray Hill	19
+East Village,North Sutton Area	1
+East Village,Park Slope	8
+East Village,Parkchester	1
+East Village,Riverdale	1
+East Village,Soho	17
+East Village,Sunny Side	2
+East Village,Sunset Park	1
+East Village,Tribeca	3
+East Village,UNKNOWN	22
+East Village,Upper East Side	26
+East Village,Upper West Side	11
+East Village,Washington Heights	1
+East Village,West Village	13
+East Village,Williamsburg	4
+East Village,Yorkville	4
+Financial District,Battery Park	7
+Financial District,Bay Ridge	1
+Financial District,Bedford-Stuyvesant	1
+Financial District,Bensonhurst	1
+Financial District,Carroll Gardens	2
+Financial District,Chelsea	16
+Financial District,Chinatown	3
+Financial District,Clinton	4
+Financial District,Cobble Hill	1
+Financial District,Downtown	2
+Financial District,Dyker Heights	1
+Financial District,East Village	11
+Financial District,Financial District	15
+Financial District,Fort Green	1
+Financial District,Garment District	14
+Financial District,Gramercy	16
+Financial District,Greenwich Village	4
+Financial District,Jackson Heights	1
+Financial District,Little Italy	5
+Financial District,Lower East Side	13
+Financial District,Midtown	46
+Financial District,Murray Hill	14
+Financial District,North Sutton Area	1
+Financial District,Park Slope	1
+Financial District,Soho	7
+Financial District,Tribeca	6
+Financial District,UNKNOWN	14
+Financial District,Upper East Side	19
+Financial District,Upper West Side	5
+Financial District,West Village	5
+Financial District,Williamsburg	7
+Flushing,Clinton	1
+Flushing,Throggs Neck	1
+Fordham,Gramercy	1
+Forest Hills,Jackson Heights	1
+Forest Hills,Maspeth	1
+Forest Hills,Murray Hill	1
+Forest Hills,UNKNOWN	3
+Forest Hills,Upper West Side	1
+Fort Green,Bedford-Stuyvesant	2
+Fort Green,Brownsville	1
+Fort Green,Bushwick	1
+Fort Green,Chinatown	1
+Fort Green,Downtown	1
+Fort Green,East Village	3
+Fort Green,Fort Green	1
+Fort Green,Gramercy	1
+Fort Green,Greenwich Village	1
+Fort Green,Midtown	3
+Fort Green,Park Slope	1
+Fort Green,Soho	2
+Fort Green,Sunny Side	1
+Fort Green,UNKNOWN	3
+Fort Green,Williamsburg	3
+Garment District,Astoria-Long Island City	6
+Garment District,Battery Park	3
+Garment District,Bedford-Stuyvesant	1
+Garment District,Carnegie Hill	2
+Garment District,Central Park	3
+Garment District,Chelsea	43
+Garment District,Chinatown	1
+Garment District,Clinton	33
+Garment District,Cobble Hill	1
+Garment District,East Harlem	2
+Garment District,East Village	15
+Garment District,Financial District	13
+Garment District,Fort Green	3
+Garment District,Garment District	20
+Garment District,Gramercy	53
+Garment District,Gravesend-Sheepshead Bay	2
+Garment District,Greenwich Village	8
+Garment District,Hamilton Heights	3
+Garment District,Harlem	2
+Garment District,Little Italy	1
+Garment District,Lower East Side	5
+Garment District,Midtown	111
+Garment District,Morningside Heights	2
+Garment District,Morris Heights	1
+Garment District,Mott Haven	1
+Garment District,Murray Hill	28
+Garment District,North Sutton Area	2
+Garment District,Park Slope	3
+Garment District,Soho	8
+Garment District,Tribeca	3
+Garment District,UNKNOWN	19
+Garment District,Upper East Side	31
+Garment District,Upper West Side	31
+Garment District,Washington Heights	1
+Garment District,West Village	10
+Garment District,Williamsburg	3
+Garment District,Woodhaven-Richmond Hill	1
+Garment District,Yorkville	3
+Gramercy,Astoria-Long Island City	3
+Gramercy,Battery Park	6
+Gramercy,Bedford-Stuyvesant	1
+Gramercy,Bushwick	1
+Gramercy,Carnegie Hill	3
+Gramercy,Central Park	9
+Gramercy,Chelsea	64
+Gramercy,Chinatown	2
+Gramercy,Clinton	21
+Gramercy,Downtown	3
+Gramercy,East Harlem	1
+Gramercy,East Village	48
+Gramercy,Financial District	19
+Gramercy,Forest Hills	1
+Gramercy,Fort Green	1
+Gramercy,Garment District	56
+Gramercy,Glendale	1
+Gramercy,Gramercy	96
+Gramercy,Gravesend-Sheepshead Bay	1
+Gramercy,Greenwich Village	54
+Gramercy,Greenwood	2
+Gramercy,Hamilton Heights	1
+Gramercy,Harlem	3
+Gramercy,Inwood	1
+Gramercy,Little Italy	2
+Gramercy,Lower East Side	22
+Gramercy,Mapleton-Flatlands	1
+Gramercy,Maspeth	1
+Gramercy,Midtown	130
+Gramercy,Morningside Heights	3
+Gramercy,Morris Heights	1
+Gramercy,Murray Hill	41
+Gramercy,North Sutton Area	6
+Gramercy,Park Slope	1
+Gramercy,Ridgewood	1
+Gramercy,Soho	25
+Gramercy,South Bronx	2
+Gramercy,Spuyten Duyvil	1
+Gramercy,Tribeca	8
+Gramercy,UNKNOWN	41
+Gramercy,University Heights	1
+Gramercy,Upper East Side	71
+Gramercy,Upper West Side	17
+Gramercy,Washington Heights	1
+Gramercy,West Village	24
+Gramercy,Williamsburg	9
+Gramercy,Yorkville	3
+Greenwich Village,Astoria-Long Island City	3
+Greenwich Village,Battery Park	4
+Greenwich Village,Bay Ridge	1
+Greenwich Village,Bedford-Stuyvesant	4
+Greenwich Village,Boerum Hill	1
+Greenwich Village,Bushwick	1
+Greenwich Village,Carnegie Hill	3
+Greenwich Village,Central Park	1
+Greenwich Village,Chelsea	38
+Greenwich Village,Chinatown	1
+Greenwich Village,Clinton	14
+Greenwich Village,Downtown	1
+Greenwich Village,East Village	35
+Greenwich Village,Financial District	9
+Greenwich Village,Fort Green	2
+Greenwich Village,Garment District	21
+Greenwich Village,Gramercy	49
+Greenwich Village,Greenwich Village	44
+Greenwich Village,Greenwood	2
+Greenwich Village,Hamilton Heights	1
+Greenwich Village,Harlem	3
+Greenwich Village,Jackson Heights	1
+Greenwich Village,Little Italy	7
+Greenwich Village,Lower East Side	10
+Greenwich Village,Midtown	56
+Greenwich Village,Morningside Heights	1
+Greenwich Village,Murray Hill	18
+Greenwich Village,Park Slope	4
+Greenwich Village,Soho	15
+Greenwich Village,Spuyten Duyvil	1
+Greenwich Village,Sunny Side	3
+Greenwich Village,Sunset Park	1
+Greenwich Village,Tribeca	6
+Greenwich Village,UNKNOWN	14
+Greenwich Village,Upper East Side	14
+Greenwich Village,Upper West Side	15
+Greenwich Village,Washington Heights	2
+Greenwich Village,West Village	17
+Greenwich Village,Williamsburg	2
+Hamilton Heights,Clinton	1
+Hamilton Heights,East Harlem	1
+Hamilton Heights,Greenwich Village	1
+Hamilton Heights,Hamilton Heights	2
+Hamilton Heights,Harlem	1
+Hamilton Heights,Morningside Heights	5
+Hamilton Heights,Mott Haven	1
+Hamilton Heights,UNKNOWN	2
+Hamilton Heights,Upper East Side	1
+Hamilton Heights,Upper West Side	4
+Hamilton Heights,Yorkville	1
+Harlem,Astoria-Long Island City	1
+Harlem,Carnegie Hill	1
+Harlem,Central Park	1
+Harlem,Chelsea	1
+Harlem,East Harlem	7
+Harlem,East Village	2
+Harlem,Garment District	2
+Harlem,Gramercy	2
+Harlem,Greenwich Village	1
+Harlem,Hamilton Heights	3
+Harlem,Harlem	9
+Harlem,High Bridge	1
+Harlem,Midtown	4
+Harlem,Morningside Heights	5
+Harlem,Murray Hill	1
+Harlem,UNKNOWN	4
+Harlem,Upper East Side	3
+Harlem,Upper West Side	9
+Harlem,Washington Heights	1
+Harlem,Yorkville	6
+High Bridge,Harlem	1
+High Bridge,Mott Haven	1
+Inwood,Clinton	1
+Jackson Heights,Astoria-Long Island City	2
+Jackson Heights,UNKNOWN	2
+Jackson Heights,Utopia	1
+Little Italy,Astoria-Long Island City	1
+Little Italy,Bedford-Stuyvesant	3
+Little Italy,Central Park	2
+Little Italy,Chelsea	7
+Little Italy,Chinatown	1
+Little Italy,Clinton	1
+Little Italy,East Village	6
+Little Italy,Financial District	1
+Little Italy,Fort Green	1
+Little Italy,Garment District	6
+Little Italy,Gramercy	5
+Little Italy,Greenwich Village	7
+Little Italy,Hamilton Heights	1
+Little Italy,Lower East Side	3
+Little Italy,Midtown	4
+Little Italy,Murray Hill	4
+Little Italy,North Sutton Area	1
+Little Italy,Park Slope	3
+Little Italy,Soho	1
+Little Italy,Tribeca	4
+Little Italy,UNKNOWN	6
+Little Italy,Upper East Side	2
+Little Italy,Upper West Side	4
+Little Italy,West Village	4
+Little Italy,Williamsburg	2
+Little Italy,Yorkville	1
+Lower East Side,Battery Park	2
+Lower East Side,Bay Ridge	1
+Lower East Side,Bedford-Stuyvesant	6
+Lower East Side,Boerum Hill	1
+Lower East Side,Bushwick	4
+Lower East Side,Carnegie Hill	2
+Lower East Side,Carroll Gardens	1
+Lower East Side,Chelsea	13
+Lower East Side,Chinatown	2
+Lower East Side,Clinton	3
+Lower East Side,Downtown	4
+Lower East Side,East Village	19
+Lower East Side,Financial District	13
+Lower East Side,Forest Hills	1
+Lower East Side,Fort Green	1
+Lower East Side,Garment District	14
+Lower East Side,Gramercy	23
+Lower East Side,Greenwich Village	21
+Lower East Side,Greenwood	1
+Lower East Side,Hamilton Heights	2
+Lower East Side,Harlem	2
+Lower East Side,Jackson Heights	2
+Lower East Side,Little Italy	2
+Lower East Side,Lower East Side	18
+Lower East Side,Midtown	15
+Lower East Side,Morningside Heights	1
+Lower East Side,Murray Hill	6
+Lower East Side,North Sutton Area	3
+Lower East Side,Park Slope	2
+Lower East Side,Soho	9
+Lower East Side,Sunny Side	3
+Lower East Side,Sunset Park	1
+Lower East Side,Tribeca	7
+Lower East Side,UNKNOWN	12
+Lower East Side,Upper East Side	10
+Lower East Side,Upper West Side	7
+Lower East Side,Washington Heights	1
+Lower East Side,West Village	6
+Lower East Side,Williamsburg	16
+Mapleton-Flatlands,Forest Hills	1
+Midtown,Astoria-Long Island City	9
+Midtown,Battery Park	19
+Midtown,Bay Ridge	1
+Midtown,Bedford-Stuyvesant	3
+Midtown,Boerum Hill	1
+Midtown,Borough Park	1
+Midtown,Bushwick	2
+Midtown,Carnegie Hill	15
+Midtown,Carroll Gardens	2
+Midtown,Central Park	26
+Midtown,Chelsea	79
+Midtown,Chinatown	6
+Midtown,Clinton	70
+Midtown,Downtown	2
+Midtown,East Harlem	6
+Midtown,East Village	39
+Midtown,Financial District	31
+Midtown,Forest Hills	3
+Midtown,Fort Green	3
+Midtown,Garment District	110
+Midtown,Gramercy	114
+Midtown,Gravesend-Sheepshead Bay	2
+Midtown,Greenwich Village	46
+Midtown,Greenwood	1
+Midtown,Hamilton Heights	1
+Midtown,Harlem	7
+Midtown,Hunts Point	1
+Midtown,Inwood	4
+Midtown,Jackson Heights	3
+Midtown,Little Italy	6
+Midtown,Lower East Side	19
+Midtown,Midtown	364
+Midtown,Morningside Heights	7
+Midtown,Morris Heights	1
+Midtown,Murray Hill	61
+Midtown,Nkew Gardens	1
+Midtown,North Sutton Area	19
+Midtown,Park Slope	4
+Midtown,Ridgewood	1
+Midtown,Riverdale	1
+Midtown,Soho	29
+Midtown,South Bronx	2
+Midtown,Sunny Side	10
+Midtown,Tribeca	19
+Midtown,UNKNOWN	105
+Midtown,Upper East Side	229
+Midtown,Upper West Side	135
+Midtown,Washington Heights	13
+Midtown,West Village	16
+Midtown,Williamsburg	2
+Midtown,Woodside	1
+Midtown,Yorkville	14
+Morningside Heights,Carnegie Hill	1
+Morningside Heights,Central Park	2
+Morningside Heights,Chelsea	1
+Morningside Heights,Clinton	1
+Morningside Heights,East Harlem	2
+Morningside Heights,East Village	1
+Morningside Heights,Garment District	2
+Morningside Heights,Gramercy	2
+Morningside Heights,Hamilton Heights	2
+Morningside Heights,Harlem	1
+Morningside Heights,Inwood	1
+Morningside Heights,Jackson Heights	1
+Morningside Heights,Midtown	5
+Morningside Heights,Morningside Heights	7
+Morningside Heights,Murray Hill	2
+Morningside Heights,Soho	1
+Morningside Heights,Upper East Side	1
+Morningside Heights,Upper West Side	10
+Morningside Heights,Washington Heights	1
+Mott Haven,East Harlem	1
+Mott Haven,Mott Haven	1
+Murray Hill,Astoria-Long Island City	1
+Murray Hill,Battery Park	1
+Murray Hill,Bedford-Stuyvesant	1
+Murray Hill,Chelsea	20
+Murray Hill,Clinton	10
+Murray Hill,East Harlem	1
+Murray Hill,East Village	13
+Murray Hill,Financial District	9
+Murray Hill,Flushing	1
+Murray Hill,Fort Green	1
+Murray Hill,Garment District	30
+Murray Hill,Gramercy	42
+Murray Hill,Gravesend-Sheepshead Bay	1
+Murray Hill,Greenwich Village	16
+Murray Hill,Little Italy	1
+Murray Hill,Lower East Side	7
+Murray Hill,Middle Village	1
+Murray Hill,Midtown	62
+Murray Hill,Morningside Heights	3
+Murray Hill,Murray Hill	8
+Murray Hill,North Sutton Area	2
+Murray Hill,Park Slope	1
+Murray Hill,Soho	6
+Murray Hill,Tribeca	2
+Murray Hill,UNKNOWN	14
+Murray Hill,Upper East Side	34
+Murray Hill,Upper West Side	13
+Murray Hill,Washington Heights	1
+Murray Hill,West Village	7
+Murray Hill,Williamsburg	1
+Nkew Gardens,Douglastown-Little Neck	1
+Nkew Gardens,Forest Hills	1
+Nkew Gardens,UNKNOWN	1
+North Sutton Area,Astoria-Long Island City	1
+North Sutton Area,Battery Park	1
+North Sutton Area,Borough Park	1
+North Sutton Area,Canarsie	1
+North Sutton Area,Carnegie Hill	1
+North Sutton Area,Chelsea	2
+North Sutton Area,Clinton	2
+North Sutton Area,East Village	6
+North Sutton Area,Garment District	9
+North Sutton Area,Gramercy	16
+North Sutton Area,Greenwich Village	4
+North Sutton Area,Jackson Heights	1
+North Sutton Area,Little Italy	2
+North Sutton Area,Midtown	18
+North Sutton Area,Morningside Heights	1
+North Sutton Area,Murray Hill	9
+North Sutton Area,Soho	1
+North Sutton Area,Sunny Side	2
+North Sutton Area,Tribeca	1
+North Sutton Area,UNKNOWN	5
+North Sutton Area,Upper East Side	30
+North Sutton Area,Upper West Side	5
+North Sutton Area,Washington Heights	1
+North Sutton Area,West Village	1
+North Sutton Area,Williamsburg	1
+North Sutton Area,Woodhaven-Richmond Hill	1
+Park Slope,Boerum Hill	1
+Park Slope,Clinton	1
+Park Slope,Greenwood	1
+Park Slope,Lower East Side	1
+Park Slope,UNKNOWN	2
+Soho,Battery Park	2
+Soho,Boerum Hill	1
+Soho,Bushwick	1
+Soho,Carroll Gardens	1
+Soho,Chelsea	13
+Soho,Clinton	8
+Soho,Cobble Hill	2
+Soho,Douglastown-Little Neck	1
+Soho,East Village	14
+Soho,Financial District	14
+Soho,Garment District	9
+Soho,Gramercy	12
+Soho,Greenwich Village	6
+Soho,Greenwood	1
+Soho,Harlem	4
+Soho,Jackson Heights	3
+Soho,Little Italy	1
+Soho,Lower East Side	8
+Soho,Midtown	20
+Soho,Morningside Heights	1
+Soho,Murray Hill	5
+Soho,North Sutton Area	1
+Soho,Soho	11
+Soho,Sunny Side	1
+Soho,Tribeca	12
+Soho,UNKNOWN	9
+Soho,Upper East Side	6
+Soho,Upper West Side	4
+Soho,West Village	6
+Soho,Williams Bridge	1
+Soho,Williamsburg	4
+South Bronx,Hamilton Heights	1
+Sunny Side,Astoria-Long Island City	2
+Sunny Side,Boerum Hill	1
+Sunny Side,Central Park	1
+Sunny Side,Chelsea	2
+Sunny Side,Chinatown	2
+Sunny Side,Clinton	1
+Sunny Side,East Harlem	1
+Sunny Side,East Village	1
+Sunny Side,Garment District	1
+Sunny Side,Gramercy	1
+Sunny Side,Jackson Heights	1
+Sunny Side,Midtown	6
+Sunny Side,Murray Hill	1
+Sunny Side,Park Slope	1
+Sunny Side,Sunny Side	2
+Sunny Side,Tribeca	1
+Sunny Side,UNKNOWN	5
+Sunny Side,Upper East Side	5
+Sunny Side,Upper West Side	2
+Sunny Side,Washington Heights	1
+Sunny Side,Woodside	1
+Sunny Side,Yorkville	1
+Tribeca,Battery Park	6
+Tribeca,Bay Ridge	1
+Tribeca,Boerum Hill	1
+Tribeca,Chelsea	19
+Tribeca,Clinton	4
+Tribeca,Cobble Hill	1
+Tribeca,East Village	10
+Tribeca,Financial District	11
+Tribeca,Garment District	3
+Tribeca,Gramercy	11
+Tribeca,Greenwich Village	14
+Tribeca,Little Italy	4
+Tribeca,Lower East Side	8
+Tribeca,Midtown	21
+Tribeca,Morningside Heights	2
+Tribeca,Murray Hill	2
+Tribeca,Park Slope	2
+Tribeca,Soho	8
+Tribeca,Tribeca	8
+Tribeca,UNKNOWN	2
+Tribeca,Upper East Side	7
+Tribeca,Upper West Side	13
+Tribeca,Washington Heights	1
+Tribeca,West Village	13
+Tribeca,Williamsburg	1
+Upper East Side,Astoria-Long Island City	6
+Upper East Side,Battery Park	4
+Upper East Side,Bedford-Stuyvesant	2
+Upper East Side,Carnegie Hill	51
+Upper East Side,Central Park	30
+Upper East Side,Chelsea	40
+Upper East Side,Chinatown	3
+Upper East Side,Clinton	15
+Upper East Side,Douglastown-Little Neck	1
+Upper East Side,Downtown	1
+Upper East Side,East Harlem	12
+Upper East Side,East Village	23
+Upper East Side,Financial District	6
+Upper East Side,Forest Hills	2
+Upper East Side,Fort Green	1
+Upper East Side,Garment District	54
+Upper East Side,Gramercy	62
+Upper East Side,Greenwich Village	20
+Upper East Side,Hamilton Heights	3
+Upper East Side,Harlem	18
+Upper East Side,High Bridge	2
+Upper East Side,Inwood	1
+Upper East Side,Jackson Heights	2
+Upper East Side,Little Italy	6
+Upper East Side,Lower East Side	14
+Upper East Side,Midtown	244
+Upper East Side,Morningside Heights	7
+Upper East Side,Murray Hill	45
+Upper East Side,North Sutton Area	24
+Upper East Side,Queens Village	1
+Upper East Side,Queensboro Hill	1
+Upper East Side,Saintalbans	1
+Upper East Side,Soho	14
+Upper East Side,South Bronx	2
+Upper East Side,Sunny Side	7
+Upper East Side,Sunset Park	1
+Upper East Side,Tribeca	4
+Upper East Side,UNKNOWN	31
+Upper East Side,Upper East Side	450
+Upper East Side,Upper West Side	111
+Upper East Side,Washington Heights	12
+Upper East Side,West Village	10
+Upper East Side,Williamsburg	2
+Upper East Side,Woodside	1
+Upper East Side,Yorkville	29
+Upper West Side,Astoria-Long Island City	3
+Upper West Side,Battery Park	3
+Upper West Side,Boerum Hill	1
+Upper West Side,Carnegie Hill	15
+Upper West Side,Central Park	18
+Upper West Side,Chelsea	23
+Upper West Side,Clinton	35
+Upper West Side,Downtown	1
+Upper West Side,Dyker Heights	1
+Upper West Side,East Harlem	10
+Upper West Side,East Village	6
+Upper West Side,Financial District	8
+Upper West Side,Garment District	20
+Upper West Side,Gramercy	28
+Upper West Side,Greenwich Village	9
+Upper West Side,Greenwood	1
+Upper West Side,Hamilton Heights	13
+Upper West Side,Harlem	15
+Upper West Side,Inwood	1
+Upper West Side,Jackson Heights	1
+Upper West Side,Little Italy	1
+Upper West Side,Lower East Side	6
+Upper West Side,Midtown	165
+Upper West Side,Morningside Heights	16
+Upper West Side,Mott Haven	1
+Upper West Side,Murray Hill	10
+Upper West Side,North Sutton Area	2
+Upper West Side,Park Slope	2
+Upper West Side,Soho	3
+Upper West Side,South Bronx	1
+Upper West Side,Sunny Side	2
+Upper West Side,Tribeca	5
+Upper West Side,UNKNOWN	18
+Upper West Side,Upper East Side	138
+Upper West Side,Upper West Side	210
+Upper West Side,Washington Heights	13
+Upper West Side,West Village	8
+Upper West Side,Williamsburg	1
+Upper West Side,Woodside	1
+Upper West Side,Yorkville	12
+Utopia,Garment District	1
+Washington Heights,Clinton	1
+Washington Heights,Hamilton Heights	1
+Washington Heights,Harlem	2
+Washington Heights,Midtown	1
+Washington Heights,Upper East Side	2
+Washington Heights,Upper West Side	1
+Washington Heights,Woodhaven-Richmond Hill	1
+Washington Heights,Yorkville	1
+West Village,Astoria-Long Island City	1
+West Village,Battery Park	3
+West Village,Boerum Hill	1
+West Village,Bushwick	1
+West Village,Carnegie Hill	1
+West Village,Carroll Gardens	2
+West Village,Central Park	2
+West Village,Chelsea	38
+West Village,Chinatown	2
+West Village,Clinton	12
+West Village,Downtown	2
+West Village,East Harlem	2
+West Village,East Village	19
+West Village,Financial District	12
+West Village,Fort Green	1
+West Village,Garment District	16
+West Village,Gramercy	19
+West Village,Greenwich Village	21
+West Village,Hamilton Heights	1
+West Village,Harlem	5
+West Village,Inwood	1
+West Village,Little Italy	5
+West Village,Lower East Side	8
+West Village,Midtown	31
+West Village,Murray Hill	11
+West Village,North Sutton Area	2
+West Village,Park Slope	1
+West Village,Soho	17
+West Village,Tribeca	14
+West Village,UNKNOWN	9
+West Village,Upper East Side	15
+West Village,Upper West Side	11
+West Village,Utopia	1
+West Village,West Village	14
+West Village,Williamsburg	1
+West Village,Yorkville	1
+Williamsburg,Astoria-Long Island City	1
+Williamsburg,Bedford-Stuyvesant	2
+Williamsburg,Boerum Hill	1
+Williamsburg,Bushwick	2
+Williamsburg,East Village	3
+Williamsburg,Fort Green	8
+Williamsburg,Garment District	1
+Williamsburg,Gramercy	1
+Williamsburg,Jackson Heights	1
+Williamsburg,Lower East Side	6
+Williamsburg,Middle Village	1
+Williamsburg,Midtown	2
+Williamsburg,Morningside Heights	1
+Williamsburg,Park Slope	2
+Williamsburg,Ridgewood	1
+Williamsburg,Sunset Park	1
+Williamsburg,Tribeca	1
+Williamsburg,UNKNOWN	13
+Williamsburg,Upper East Side	2
+Williamsburg,Upper West Side	1
+Williamsburg,Williamsburg	10
+Woodhaven-Richmond Hill,Garment District	1
+Woodside,Astoria-Long Island City	1
+Woodside,Jackson Heights	2
+Woodside,Upper East Side	1
+Woodside,Woodside	2
+Yorkville,Carnegie Hill	2
+Yorkville,Carroll Gardens	1
+Yorkville,Central Park	1
+Yorkville,Chelsea	2
+Yorkville,Clinton	2
+Yorkville,East Harlem	5
+Yorkville,East Village	2
+Yorkville,Financial District	1
+Yorkville,Garment District	2
+Yorkville,Gramercy	2
+Yorkville,Greenwich Village	3
+Yorkville,Hamilton Heights	1
+Yorkville,Harlem	3
+Yorkville,Lower East Side	1
+Yorkville,Midtown	6
+Yorkville,Morningside Heights	2
+Yorkville,Morris Heights	1
+Yorkville,Mott Haven	1
+Yorkville,Murray Hill	1
+Yorkville,Soho	1
+Yorkville,UNKNOWN	4
+Yorkville,Upper East Side	14
+Yorkville,Upper West Side	9
+Yorkville,West Village	1
+Yorkville,Yorkville	2
