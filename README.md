@@ -1,5 +1,5 @@
-# dsga1004_project
-NYC Taxi and Citibike Analysis
+# DS-GA1004 Project
+# NYC Taxi and Citibike Analysis
 ==================================
 Team member: Sida Ye, Xingye Zhang, Kaiwen Liu
 -----------
