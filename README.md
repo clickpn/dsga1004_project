@@ -3,7 +3,7 @@ NYC Taxi and Citibike Analysis
 -------
 Team member: Sida Ye, Xingye Zhang, Kaiwen Liu
 
-Instruction(refer to [Tuan-Anh Hoang-Vu](http://bigdata.poly.edu/~tuananh/))
+Instruction(Refer to [Tuan-Anh Hoang-Vu](http://bigdata.poly.edu/~tuananh/))
 -----------
 1. Create an Amazon EMR cluster with the following configuration (the bootstrap action is very important -- please pay attention to that):
 
