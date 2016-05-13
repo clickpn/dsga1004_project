@@ -1,5 +1,6 @@
 # DS-GA1004 Project
 NYC Taxi and Citibike Analysis
+-------
 Team member: Sida Ye, Xingye Zhang, Kaiwen Liu
 
 Instruction(refer to [Tuan-Anh Hoang-Vu](http://bigdata.poly.edu/~tuananh/))
